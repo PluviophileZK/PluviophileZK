@@ -15,24 +15,23 @@
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
-![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=python&logoColor=ffffff)
-![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
-![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat-square&logo=c%2B%2B&logoColor=ffffff)
-![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat-square&logo=java&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Python](https://img.shields.io/badge/-Python-%233776AB?style=flat&logo=python&logoColor=ffffff)
+![C](https://img.shields.io/badge/-C-%23A8B9CC?style=flat&logo=c&logoColor=ffffff)
+![C++](https://img.shields.io/badge/-C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-%23ED8B00?style=flat&logo=java&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat&logo=tensorflow&logoColor=ffffff)
+![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat&logo=pytorch&logoColor=ffffff)
+![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat&logo=pandas&logoColor=ffffff)
+![Seaborn](https://img.shields.io/badge/-Seaborn-%234C6EF5?style=flat&logo=python&logoColor=ffffff)
+![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat&logo=opencv&logoColor=ffffff)
+![scikit-learn](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=flat&logo=scikit-learn&logoColor=ffffff)
 
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=ffffff)
-![PyTorch](https://img.shields.io/badge/-PyTorch-%23EE4C2C?style=flat-square&logo=pytorch&logoColor=ffffff)
-![Pandas](https://img.shields.io/badge/-Pandas-%23150458?style=flat-square&logo=pandas&logoColor=ffffff)
-![Seaborn](https://img.shields.io/badge/-Seaborn-%234C6EF5?style=flat-square&logo=python&logoColor=ffffff)
-![OpenCV](https://img.shields.io/badge/-OpenCV-%235C3EE8?style=flat-square&logo=opencv&logoColor=ffffff)
-![scikit-learn](https://img.shields.io/badge/-Scikit--learn-%23F7931E?style=flat-square&logo=scikit-learn&logoColor=ffffff)
-
-![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=000000)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat&logo=linux&logoColor=000000)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab)
+![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat&logo=visual-studio-code)
 
 
 ## 𝗦𝘁𝗮𝘁𝘀
